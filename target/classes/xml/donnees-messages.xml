@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="descripteur.xsd">
+
+	<!-- Liste des messages -->
+	<message reference="0">
+		<auteur>Alice</auteur>
+		<date>2011-06-07T11:53:45</date>
+		<contenu>Bonjour tout le monde!!</contenu>
+	</message>
+	<message reference="1">
+		<auteur>Guillaume</auteur>
+		<date>2011-06-07T11:54:12</date>
+		<contenu>Hey salut! Comment vas tu ?</contenu>
+	</message>
+	<message reference="2" >
+		<auteur>Alice</auteur>
+		<date>2011-06-07T11:54:58</date>
+		<contenu>Super ;)</contenu>
+	</message>
+	<message reference="3">
+		<auteur>Julien</auteur>
+		<date>2011-06-07T11:55:05</date>
+		<contenu>Bienvenue à tous! Vous connaissez le XML ?</contenu>
+	</message>
+	<message reference="4">
+		<auteur>Guillaume</auteur>
+		<date>2011-06-07T11:55:20</date>
+		<contenu>Pas vraiment... :'(</contenu>
+	</message>
+	<message reference="5">
+		<auteur>Alice</auteur>
+		<date>2011-06-07T11:58:01</date>
+		<contenu>Moi non plus, mais il parait que c'est très puissant!</contenu>
+	</message>
+	<message reference="6">
+		<auteur>Julien</auteur>
+		<date>2011-06-07T11:58:23</date>
+		<contenu>Exact ;) En plus c'est utilisé dans de nombreuses applications</contenu>
+	</message>
+	<message reference="7">
+		<auteur>Alice</auteur>
+		<date>2011-06-07T11:58:49</date>
+		<contenu>C'est souvent le cas quand le système est fiable</contenu>
+	</message>
+	<message reference="8">
+		<auteur>Guillaume</auteur>
+		<date>2011-06-07T11:59:21</date>
+		<contenu>Allez Monsieur "JeSaisTout", dis nous tout! C'est quoi ce XML ? :)</contenu>
+	</message>
+	<message reference="9">
+		<auteur>Julien</auteur>
+	<!--  <mailAuteur>julien@mail.com</mailAuteur> -->	
+		<date>2011-06-07T11:59:46</date>
+		<contenu>Héhé! Ok je commence! Il était une fois le XML...</contenu>
+	</message>
+
+	<!-- Informations diverses sur ces messages -->
+	<informationsMessages>
+		<nombreMessages>9</nombreMessages>
+		<datePremierMessage>2011-06-07T11:53:45</datePremierMessage>
+	</informationsMessages>
+
+</messages>
